@@ -1,0 +1,4 @@
+ip,sysName,sysDescr,uptime,sysContact,sysLocation,ifNumber
+192.168.0.1,SW-CORE-01,"Switch Modelo X1000, IOS v15.2",98d 7h 10m,admin@exemplo.local,Datacenter - Rack 3,48
+192.168.0.2,SW-ACCESS-02,"Switch Modelo X500, IOS v15.0",41d 2h 33m,admin@exemplo.local,Piso 2 - Bastidor B,24
+192.168.0.10,RTR-EDGE-01,"Router Modelo R900, RouterOS 7.8",12d 19h 5m,noc@exemplo.local,Datacenter - Rack 1,8
