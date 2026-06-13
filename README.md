@@ -5,6 +5,7 @@ Repositório de documentação técnica e scripts nas áreas de **redes, monitor
 ## Conteúdos
 
 - **[Zabbix — Coleta de VLAN e Subnet](zabbix/)** — descoberta e monitorização de VLANs e subnets de equipamentos de rede via Zabbix, usando personalização: SNMP, Low-Level Discovery e scripts externos.
+- **[net-inventory — Inventário de rede via SNMP](net-inventory/)** — ferramenta em Python que varre uma sub-rede, consulta os equipamentos por SNMP e gera um inventário em CSV e JSON.
 
 ## Segurança das informações
 
